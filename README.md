@@ -50,4 +50,14 @@ This repository is maintained to track my learning progress and build a strong f
 Aspiring programmer learning **C, C++, SQL, Java, Python, AI/ML**, and **Data Structures & Algorithms (DSA)**.
 
 ---
+---
+
+## 🤝 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/piyush_ghatshile45/)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919307008312)
+
+⭐ Thanks for visiting my profile!
+
 ⭐ *Feel free to explore the code!*
